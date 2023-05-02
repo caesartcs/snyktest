@@ -5,3 +5,5 @@ requests>=2.27.1
 
 #custom vulns
 libtasn1-6==4.16.0-2
+#pillow==6.2.2
+pillow==8.1.2
